@@ -6,7 +6,8 @@
 https://documenter.getpostman.com/view/21628908/2s9YkgEkmQ
 
 # Database Script
-To View Database schema, Find File [File Name- PollScriptMySQL.sql] in repo
+
+### To View Database schema, Find File [File Name- PollScriptMySQL.sql] in repo
 
 
 ## Used Tech stack:
