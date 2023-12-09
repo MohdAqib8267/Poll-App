@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `user` MODIFY `reward` INTEGER NOT NULL DEFAULT 0;
