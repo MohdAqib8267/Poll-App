@@ -7,7 +7,7 @@ https://documenter.getpostman.com/view/21628908/2s9YkgEkmQ
 
 # Database Script
 
-### To View Database schema, Find File [PollScriptMySQL.sql] in repo
+### To View Database schema, Find File [PollScriptMySQL.sql] in repo. This file exist top-most of repo
 
 
 ## Used Tech stack:
